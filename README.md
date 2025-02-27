@@ -1,5 +1,7 @@
 [Link to the Application](https://yeswanth-koti26-ai-mock-interview-app.vercel.app/)
-![image](https://github.com/user-attachments/assets/5a0e33be-ebbe-49fd-ae46-ae631b13df58)
+
+![image](https://github.com/user-attachments/assets/1dbd2777-d6d6-48bb-86c9-30aecb65a822)
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
